@@ -26,7 +26,7 @@
 <summary>Kubernetes Security 📊</summary>
 <ul>
   <li><a href="https://github.com/mandeeps13k/cks-notes">cks-notes</a></li>
-  <li><a href="https://github.com/mandeeps13k/cks-notes">cka-notes</a></li>
+  <li><a href="https://github.com/mandeeps13k/cka-notes">cka-notes</a></li>
 </ul>
 </details>
 
