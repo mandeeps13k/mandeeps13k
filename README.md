@@ -1,4 +1,4 @@
-<img src="https://github.com/mandeeps13k/mandeeps13k/blob/main/logos/LinkedIn-banner.png" />
+<img src="https://github.com/mandeeps13k/mandeeps13k/blob/main/logos/banner.png" />
 
 
 ### Hi there 👋
