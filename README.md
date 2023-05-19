@@ -11,6 +11,26 @@
 <a href="https://github.com/mandeeps13k"><img src="logos/github-logo.png" width="40" /></a>
 
 
+<h3>What I do? 👨‍💻</h3>
+<details>
+<summary>Cloud Security 📊</summary>
+<ul>
+  <li><a href="https://github.com/mandeeps13k/gcp-scc-finding-notification-jira-cloud">gcp-scc-finding-notification-jira-cloud</a></li>
+  <li><a href="https://github.com/mandeeps13k/wazuh-terraform-modules">wazuh-terraform-modules</a></li>
+  <li><a href="https://github.com/mandeeps13k/wazuh-custom-rules">wazuh-custom-rules</a></li>
+  <li>Many more on and out of Github...</li>
+</ul>
+</details>
+
+<details>
+<summary>Kubernetes Security 📊</summary>
+<ul>
+  <li><a href="https://github.com/mandeeps13k/cks-notes">cks-notes</a></li>
+  <li><a href="https://github.com/mandeeps13k/cks-notes">cka-notes</a></li>
+</ul>
+</details>
+
+
 
 <!--
 **mandeeps13k/mandeeps13k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
