@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/mandeeps13k"><img src="logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/mandeeps13k"><img src="logos/github-logo.png" width="40" /></a>
-<a href="mailto:mandeeps13k@gmail.com"><img src="" width="40" /></a>
+<a href="mailto:mandeeps13k@gmail.com"><img src="logos/gmail-logo.webp" width="40" /></a>
 <a href="https://twitter.com/mandeeps13k"><img src="logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/mandeeps13k"><img src="logos/instagram.png" width="40" /></a>
 
