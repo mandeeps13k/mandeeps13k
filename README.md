@@ -18,6 +18,7 @@
   <li><a href="https://github.com/mandeeps13k/gcp-scc-finding-notification-jira-cloud">gcp-scc-finding-notification-jira-cloud</a></li>
   <li><a href="https://github.com/mandeeps13k/wazuh-terraform-modules">wazuh-terraform-modules</a></li>
   <li><a href="https://github.com/mandeeps13k/wazuh-custom-rules">wazuh-custom-rules</a></li>
+  <li><a href="https://github.com/mandeeps13k/gcp-cloud-audit">gcp-cloud-audit</a></li>
   <li>Many more on and out of Github...</li>
 </ul>
 </details>
