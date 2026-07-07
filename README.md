@@ -15,7 +15,7 @@
 
 ### 🛡️ About Me
 
-I'm a cloud security engineer with **9+ years** building and scaling security programs across **multi-cloud + Kubernetes-native** environments. Across my career I've worked on **security compliance & audit readiness (ISO 27001, SOC 2, PCI DSS), runtime threat detection, incident response, application security review, and policy-as-code with Terraform** — currently as Senior Cloud Security Engineer at **[commercetools](https://commercetools.com)** in Berlin.
+I'm a cloud security engineer with **9+ years** spanning the security spectrum — from penetration testing and web application security to building and scaling security programs on **multi-cloud, Kubernetes-native** platforms. My hands-on work covers **web & application security, cloud & container security, SIEM & threat detection, runtime detection & incident response, and policy-as-code with Terraform** — currently as Senior Cloud Security Engineer at **[commercetools](https://commercetools.com)** in Berlin.
 
 - 🔭 &nbsp;Building detection & response, secure-by-default guardrails, and shift-left tooling
 - 🧰 &nbsp;I turn security policy into automation — SIEM pipelines, IaC scanning, and CI/CD guardrails
