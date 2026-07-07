@@ -72,26 +72,8 @@ I'm a cloud security engineer who builds and scales security programs across **m
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandeeps13k&theme=tokyonight" alt="profile summary" />
-</p>
-
-<p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mandeeps13k&theme=tokyonight" alt="repos per language" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mandeeps13k&theme=tokyonight" alt="most committed language" />
-</p>
-
-<p align="center">
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandeeps13k&theme=tokyonight" alt="stats" />
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandeeps13k&theme=tokyonight&utcOffset=1" alt="productive time" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mandeeps13k&theme=tokyonight&hide_border=true&border_radius=8" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeeps13k&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandeeps13k&theme=tokyonight" alt="Total commits, pull requests and contributions" />
 </p>
