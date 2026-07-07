@@ -1,5 +1,3 @@
-<img src="https://github.com/mandeeps13k/mandeeps13k/blob/main/logos/banner.png" />
-
 <h1 align="center">Hi, I'm Mandeep Singh Kapoor 👋</h1>
 
 <p align="center">
