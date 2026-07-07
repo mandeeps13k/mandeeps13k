@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/mandeeps13k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mandeeps13k@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/mandeeps13k"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/mandeeps13k"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/mandeeps13k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -24,6 +23,15 @@ I'm a cloud security engineer who builds and scales security programs across **m
 - 🧰 &nbsp;I turn security policy into automation — SIEM pipelines, IaC scanning, and CI/CD guardrails
 - 🐛 &nbsp;Bug-bounty background: valid reports to **Google, Uber, Twitter, Slack & Booking.com**; **Synack Red Team top-100 (2019)**
 - 📫 &nbsp;Reach me at **mandeeps13k@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/mandeeps13k)
+
+---
+
+### 📜 Certifications
+
+- 🛡️ [**CKS** — Certified Kubernetes Security Specialist](https://www.cncf.io/training/certification/cks/) &nbsp;·&nbsp; Linux Foundation, 2022
+- ☸️ [**CKA** — Certified Kubernetes Administrator](https://www.cncf.io/training/certification/cka/) &nbsp;·&nbsp; Linux Foundation, 2022
+- 📡 [**OSWP** — Offensive Security Wireless Professional](https://www.offsec.com/courses/pen-210/) &nbsp;·&nbsp; OffSec, 2016
+- 🌐 [**Akamai** Kona Site Defender](https://www.akamai.com/) *(2020)* &nbsp;·&nbsp; Bot Manager Foundations *(2019)*
 
 ---
 
@@ -52,15 +60,6 @@ I'm a cloud security engineer who builds and scales security programs across **m
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 📜 Certifications
-
-- **CKS** — Certified Kubernetes Security Specialist *(Linux Foundation, 2022)*
-- **CKA** — Certified Kubernetes Administrator *(Linux Foundation, 2022)*
-- **Akamai Kona Site Defender** *(2020)* & **Bot Manager Foundations** *(2019)*
-- **OSWP** — Offensive Security Wireless Professional *(2016)*
 
 ---
 
@@ -96,12 +95,25 @@ I'm a cloud security engineer who builds and scales security programs across **m
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mandeeps13k&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeeps13k&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mandeeps13k&theme=default" alt="profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mandeeps13k&theme=graywhite&hide_border=true" alt="streak" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mandeeps13k&theme=default" alt="repos per language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mandeeps13k&theme=default" alt="most committed language" />
+</p>
+
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandeeps13k&theme=default" alt="stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mandeeps13k&theme=default&utcOffset=1" alt="productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mandeeps13k&theme=graywhite&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeeps13k&theme=github-light&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
