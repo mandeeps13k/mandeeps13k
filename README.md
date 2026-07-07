@@ -75,5 +75,11 @@ I'm a cloud security engineer who builds and scales security programs across **m
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mandeeps13k&theme=tokyonight" alt="Total commits, pull requests and contributions" />
+  <img alt="Total Commits" src="https://img.shields.io/badge/Total_Commits-1.2k%2B-2088FF?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img alt="Pull Requests" src="https://img.shields.io/badge/Pull_Requests-530%2B-8250DF?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <img alt="Contributions" src="https://img.shields.io/badge/Contributions-1.8k%2B-2EA043?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
+
+<p align="center"><sub><i>All-time across public repositories · commits + pull requests + issues</i></sub></p>
